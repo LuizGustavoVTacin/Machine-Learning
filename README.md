@@ -3,27 +3,25 @@
 
 # Machine Learning e Data Science
 
-Repositório criado para adicionar estudos e contéudos práticos referentes a Machine Learning e Data Science
+<font size="4">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
 
-<img src= "images/pt2.png" align = "center" width= "600">
-
-<br>
-<br>
+<img src= "images/PyTorch.png" align = "right" width= "650">
 
 ## Aulas: PyTorch 🔥🤖
 
+**Curso disponível em:**
+ [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
-Curso disponível em [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
+**Tópicos:**
 
-Tópicos
+- ✔️ <font size="4">Quickstart</font>
+- ✔️ <font size="4">Tensors</font>
+- ✔️ <font size="4">Datasets & DataLoaders</font>
+- ✔️ <font size="4">Transforms</font>
+- ✔️ <font size="4">Build the Neural Network</font>
+- ✔️ <font size="4">Automatic Differentiation with torch.autograd</font>
+- ✔️ <font size="4">Optimizing Model Parameters</font>
 
-- ✔️ Quickstart
-- ✔️ Tensors
-- ✔️ Datasets & DataLoaders
-- ✔️ Transforms
-- ✔️ Build the Neural Network
-- ✔️ Automatic Differentiation with torch.autograd
-- ✔️ Optimizing Model Parameters
 
 <!---
 ## Exercícios
