@@ -5,7 +5,7 @@
 
 <font size="5">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
 
-<img src= "images/pt3.png" align = "right" width= "500">
+<img src= "images/pt3.png" align = "right" width= "400">
 
 ## Aulas: PyTorch Documentation 🔥🤖
 
