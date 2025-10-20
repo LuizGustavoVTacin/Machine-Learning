@@ -25,27 +25,42 @@
 - ✔️ <font size="4">Automatic Differentiation with torch.autograd</font>
 - ✔️ <font size="4">Optimizing Model Parameters</font>
 
-<img src= "images/Book.png" align = "right" width= "400">
+<img src= "images/Book.png" align = "right" width= "350">
 
 ## Livro: Deep Learning with PyTorch
 
 <font size="4"><b>Autores:</b></font> <font size="4">Eli Stevens, Luca Antiga, Thomas Viehmann</font>
 
-- ✔️ <font size="4">Introducing depp learning and the PyTorch Libray</font>
-- ✔️ <font size="4">Pretrained networks</font>
-- ✔️ <font size="4">It starts with a tensor</font>
-- ✔️ <font size="4">Real-world data representation using tensors</font>
-- ✔️ <font size="4">The mechanics of learning</font>
-- ✔️ <font size="4">Using a neural network to fit the data</font>
-- ✔️ <font size="4">Telling birds from airplanes: Learning from images</font>
-- ✔️ <font size="4">Using convolutions to generalize</font>
-- ✔️ <font size="4">Using PyTorch to fight cancer</font>
-- ✔️ <font size="4">Combining data sources into a unified dataset</font>
-- ✔️ <font size="4">Training a classification model to detect suspected tumors</font>
-- ✔️ <font size="4">Improving training with metrics and augmentation</font>
-- ✔️ <font size="4">Using segmentation to find suspected modules</font>
-- ✔️ <font size="4">End-to-end module analysis, and where to go next</font>
-- ✔️ <font size="4">Deploying to production</font>
+- Chapter 1
+<font size="4">Introducing depp learning and the PyTorch Libray</font>
+- Chapter 2
+<font size="4">Pretrained networks</font>
+- Chapter 3
+<font size="4">It starts with a tensor</font>
+- Chapter 4
+<font size="4">Real-world data representation using tensors</font>
+- Chapter 5
+<font size="4">The mechanics of learning</font>
+- Chapter 6
+<font size="4">Using a neural network to fit the data</font>
+- Chapter 7
+<font size="4">Telling birds from airplanes: Learning from images</font>
+- Chapter 8
+<font size="4">Using convolutions to generalize</font>
+- Chapter 9
+<font size="4">Using PyTorch to fight cancer</font>
+- Chapter 10
+<font size="4">Combining data sources into a unified dataset</font>
+- Chapter 11
+<font size="4">Training a classification model to detect suspected tumors</font>
+- Chapter 12
+<font size="4">Improving training with metrics and augmentation</font>
+- Chapter 13
+<font size="4">Using segmentation to find suspected modules</font>
+- Chapter 14
+<font size="4">End-to-end module analysis, and where to go next</font>
+- Chapter 15
+<font size="4">Deploying to production</font>
 
 <!---
 ## Exercícios
