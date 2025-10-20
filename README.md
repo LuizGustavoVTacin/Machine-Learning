@@ -9,7 +9,7 @@
 
 # Estudos
 
-<img src= "images/PyTorch.png" align = "right" width= "400">
+<img src= "images/PyTorch.png" align = "right" width= "380">
 
 ## PyTorch Documentation 🔥🤖
 
