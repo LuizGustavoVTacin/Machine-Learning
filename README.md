@@ -3,16 +3,19 @@
 
 # Machine Learning e Data Science 
 
-<font size="5">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
+<font size="4">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
+
+<hr>
+
+# Estudos
 
 <img src= "images/PyTorch.png" align = "right" width= "400">
 
-## Aulas: PyTorch Documentation 🔥🤖
+## PyTorch Documentation 🔥🤖
 
-**Curso disponível em:**
- [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
+<font size="4"><b>Curso disponível em:</b></font> [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
-**Tópicos:**
+<font size="5"><b>Tópicos:</b></font>
 
 - ✔️ <font size="4">Quickstart</font>
 - ✔️ <font size="4">Tensors</font>
@@ -22,7 +25,27 @@
 - ✔️ <font size="4">Automatic Differentiation with torch.autograd</font>
 - ✔️ <font size="4">Optimizing Model Parameters</font>
 
-## Estudos: Deep Learning with <font color=#EE4C2C>PyTorch</font>
+<img src= "images/Book.png" align = "right" width= "400">
+
+## Livro: Deep Learning with PyTorch
+
+<font size="4"><b>Autores:</b></font> <font size="4">Eli Stevens, Luca Antiga, Thomas Viehmann</font>
+
+- ✔️ <font size="4">Introducing depp learning and the PyTorch Libray</font>
+- ✔️ <font size="4">Pretrained networks</font>
+- ✔️ <font size="4">It starts with a tensor</font>
+- ✔️ <font size="4">Real-world data representation using tensors</font>
+- ✔️ <font size="4">The mechanics of learning</font>
+- ✔️ <font size="4">Using a neural network to fit the data</font>
+- ✔️ <font size="4">Telling birds from airplanes: Learning from images</font>
+- ✔️ <font size="4">Using convolutions to generalize</font>
+- ✔️ <font size="4">Using PyTorch to fight cancer</font>
+- ✔️ <font size="4">Combining data sources into a unified dataset</font>
+- ✔️ <font size="4">Training a classification model to detect suspected tumors</font>
+- ✔️ <font size="4">Improving training with metrics and augmentation</font>
+- ✔️ <font size="4">Using segmentation to find suspected modules</font>
+- ✔️ <font size="4">End-to-end module analysis, and where to go next</font>
+- ✔️ <font size="4">Deploying to production</font>
 
 <!---
 ## Exercícios
