@@ -1,11 +1,11 @@
 ![Github](https://img.shields.io/github/last-commit/LuizGustavoVTacin/MachineLearning?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/PyTorch-FF0000) 
 <!-- ![Static Badge](https://img.shields.io/badge/TensorFlow-FF4500) ![Static Badge](https://img.shields.io/badge/Scikit--Learn-1e90ff) --->
 
-# Machine Learning e Data Science
+# Machine Learning e Data Science 
 
 <font size="5">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
 
-<img src= "images/pt3.png" align = "right" width= "410">
+<img src= "images/PyTorch.png" align = "right" width= "400">
 
 ## Aulas: PyTorch Documentation 🔥🤖
 
@@ -22,6 +22,7 @@
 - ✔️ <font size="4">Automatic Differentiation with torch.autograd</font>
 - ✔️ <font size="4">Optimizing Model Parameters</font>
 
+## Estudos: Deep Learning with <font color=#EE4C2C>PyTorch</font>
 
 <!---
 ## Exercícios
