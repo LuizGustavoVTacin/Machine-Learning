@@ -47,7 +47,7 @@
 - ❗<font size="4">End-to-end module analysis, and where to go next</font>
 - ❗<font size="4">Deploying to production</font>
 
-<img src= "images/Optuna.jpeg" align = "right" width= "250">
+<img src= "images/Optuna.png" align = "right" width= "250">
 
 ## Optuna Documentation
 
