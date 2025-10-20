@@ -3,11 +3,11 @@
 
 # Machine Learning e Data Science
 
-<font size="4">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
+<font size="5">Repositório criado para adicionar estudos e conteúdos práticos referentes a Machine Learning e Data Science</font><br>
 
-<img src= "images/pt3.png" align = "right" width= "650">
+<img src= "images/pt3.png" align = "right" width= "550">
 
-## Aulas: PyTorch 🔥🤖
+## Aulas: PyTorch Documentation 🔥🤖
 
 **Curso disponível em:**
  [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
