@@ -7,13 +7,13 @@
 
 <hr>
 
-# Estudos
+# Estudos 🔥🤖
 
 <img src= "images/PyTorch.png" align = "right" width= "360">
 
-## PyTorch Documentation 🔥🤖
+## PyTorch Documentation 
 
-<font size="4"><b>Curso disponível em:</b></font> [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
+<font size="4"><b>Material disponível em:</b></font> [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
 <font size="5"><b>Tópicos:</b></font>
 
@@ -46,6 +46,18 @@
 - ❗<font size="4">Using segmentation to find suspected modules</font>
 - ❗<font size="4">End-to-end module analysis, and where to go next</font>
 - ❗<font size="4">Deploying to production</font>
+
+<img src= "images/Optuna.jpeg" align = "right" width= "250">
+
+## Optuna Documentation
+
+<font size="4"><b>Material disponível em:</b></font> [Optuna Official Documentation](https://optuna.readthedocs.io/en/stable/tutorial/index.html)
+
+- ❗<font size="4">Lightweight, versatile and platform agnostic architecture</font>
+- ❗<font size="4">Pythonic Search Space</font>
+- ❗<font size="4">Efficient Optimization Algorithms</font>
+- ❗<font size="4">Easy Parallelization</font>
+- ❗<font size="4">Quick Visualization for Hyperparameter Optimization Analysis</font>
 
 <!---
 ## Exercícios
