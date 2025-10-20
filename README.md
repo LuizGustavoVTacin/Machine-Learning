@@ -3,11 +3,15 @@
 
 # Machine Learning e Data Science
 
-Repositório criado para adicionar estudos e contéudos práticos referentes a ML, DS e DL
+Repositório criado para adicionar estudos e contéudos práticos referentes a Machine Learning e Data Science
+
+<img src= "images/pt2.png" align = "center" width= "600">
+
+<br>
+<br>
 
 ## Aulas: PyTorch 🔥🤖
 
-<img src= "images/pt.png" align = "right" width= "250">
 
 Curso disponível em [PyTorch Official Documentation](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 
