@@ -1,5 +1,9 @@
-images/TF.png
-images/kaggle.png
-images/Data.jpeg
-PyTorch/model.pth
-data
+images/*.jpeg
+images/*.png
+*.pth
+Exercicios/data
+Exercicios/FashionMNIST/FashionMNIST_data
+Exercicios/MNIST/MNIST_data
+Exercicios/GalaxyZoo/dados
+Exercicios/GalaxyZoo/UnzipDataset.py
+Exercicios/GalaxyZoo/GalaxyZooDownload.py
